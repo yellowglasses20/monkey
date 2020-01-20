@@ -224,7 +224,7 @@ if (10 > 1) {
 		},
 		{
 			"foobar",
-			"indentifier not found: foobar",
+			"identifier not found: foobar",
 		},
 	}
 
